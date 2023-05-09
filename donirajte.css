@@ -46,6 +46,9 @@ textarea {
     resize: none;
 }
 
+footer {
+    margin-top: 100px;
+}
 
 footer p {
     color: #f1f6f9;
@@ -62,6 +65,4 @@ i {
 
 }
 
-.donate {
-    height: 81vh;
-}
+
