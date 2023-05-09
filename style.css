@@ -1,0 +1,115 @@
+body {
+    background-color: white;
+}
+
+header, .card {
+    background-color: #212a3e;
+}
+
+.nav-item {
+    font-size: 1.1rem;
+}
+
+nav, li, a {
+    color: #f1f6f9 !important;
+}
+
+h1,h2,h3,h4,h5, p {
+    color: #212a3e;
+}
+
+span {
+    color: #9ba4b5;
+}
+
+p {
+    font-size: 1.4em;
+    text-align: left;
+}
+
+strong {
+    font-size: 23px;
+}
+
+.slika {
+    width: 100%;
+}
+
+.slika4 {
+    width: 70%;
+}
+
+.l-b {
+    background-color: #394867;
+} 
+
+.l-b h2, .l-b p {
+    color: #f1f6f9;
+}
+
+.bl {
+    background-color: #9ba4b5;
+}
+
+
+.card p, .card h3, .card h5 {
+    color: #f1f6f9;
+}
+
+.card {
+    border: none;
+    border-radius: 30px;
+}
+
+.card-img-top {
+    border-radius: 30px 30px 0px 0px;
+}
+
+.card .btn {
+    float: right;
+    border-radius: 100px; 
+    width: 200px;
+    padding: 8px;
+    color: #212a3e !important;
+    font-size: 18px;
+    font-weight: 500;
+    border: 2px solid #394867;
+    background-color: #f1f6f9;
+}
+
+.card .btn:hover {
+    color: #f1f6f9 !important;
+    background-color: #394867;
+}
+
+footer p {
+    text-align: center;
+    font-size: 1rem;
+    color: #f1f6f9;
+    background-color: #212a3e;
+    margin-bottom: 0px;
+    padding: 15px 0px;
+}
+
+
+i {
+    font-size: 15vh;
+    cursor: pointer;
+    color: #212a3e;
+}
+
+p span {
+    font-weight: bold;
+    color: #394867;
+}
+
+
+@media (max-width:960px) {
+    .sm-ord2 {
+        order: 2;
+    } 
+    
+    .sm-ord1 {
+        order: 1;
+    }
+}

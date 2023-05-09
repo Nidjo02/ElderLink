@@ -1,0 +1,66 @@
+body {
+    background-color: #f1f6f9;
+}
+
+header {
+    background-color: #212a3e;
+}
+
+.nav-item {
+    font-size: 1.1rem;
+}
+
+nav, li, a {
+    color: #f1f6f9 !important;
+}
+
+h1,h2,h3,h4,h5, p {
+    color: #212a3e;
+}
+
+.senior {
+    width: 10%;
+}
+
+.form-label, .form-check-label {
+    color:#212a3e;
+}
+
+.submit {
+    border-radius: 100px; 
+    width: 200px;
+    padding: 8px;
+    color: #f1f6f9;
+    font-size: 20px;
+    border: 2px solid #394867;
+    background-color: #394867;
+}
+
+.submit:hover {
+    color: #394867;
+    background-color: #f1f6f9;
+}
+
+textarea {
+    resize: none;
+}
+
+
+footer p {
+    color: #f1f6f9;
+    background-color: #212a3e;
+    margin-bottom: 0px;
+    padding: 15px 0px;
+}
+
+
+
+i {
+    color: #212a3e;
+    font-size: 30px;
+
+}
+
+.donate {
+    height: 81vh;
+}
